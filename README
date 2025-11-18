@@ -1,5 +1,1 @@
-COMP30023 2025 - Project 2
-
-Test cases will be added over time.
-See FAQ on Ed (#200) for more details.
-
+The aim of this project is to familiarize with socket programming, caching, and re-loads stale entries after the expiration time.
